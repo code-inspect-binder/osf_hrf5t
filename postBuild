@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/hrf5t_src/Analysis/JAGS Code")' >> /home/jovyan/.Rprofile
